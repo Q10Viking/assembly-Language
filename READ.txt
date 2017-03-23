@@ -1,0 +1,2 @@
+The file recors some codes that I am learning assembly language.
+I am a student，enjoy it.
